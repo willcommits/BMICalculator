@@ -1,0 +1,39 @@
+
+body{
+	background-image: linear-gradient(120deg,#ff6b6b, #5f27cd);
+}
+.container{
+	background-color: #fff;;
+	width:25%;
+	padding: 20px 20px;
+	margin: auto;
+	margin-top: 70px;
+	border-radius: 6px;
+	color:#222f3e;
+	
+
+}
+input{
+	outline: none;
+	appearance: none;
+	margin-left: 8px;
+	border: none;
+	box-shadow: none;
+	border-bottom: 2px solid #222f3e;
+}
+
+.title{
+	text-align: center;
+}
+.btn1{
+	margin-left:100px;
+	background-image: linear-gradient(120deg,#ff6b6b, #5f27cd);
+	border:2px solid hsl(0, 0%, 95%);
+	color:hsl(0, 0%, 95%);
+	border-radius:6px;
+	padding: 3px 6px;
+}
+.btn1:hover{
+border:2px solid linear-gradient(120deg,#ff6b6b, #5f27cd);
+
+}
